@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep  1 23:21:38 2025
-
-@author: preth
-"""
-
 """
 Unified exam-ready script for Network Science lab (NetworkX).
 Covers:
@@ -505,5 +498,3 @@ if __name__ == "_main_":
 
     else:
         print("Unknown mode. Set mode to one of: example, from_file, assignment1, assignment2, assignment3, assignment4")
-
-    # End of main
