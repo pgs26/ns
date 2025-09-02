@@ -310,7 +310,7 @@ def full_report(G, name="Graph"):
 # -----------------------
 # 8) MAIN: examples & quick experiments
 # -----------------------
-if __name__ == "_main_":
+if __name__ == "__main__":
     # ---------- SETTINGS ----------
     # Choose "mode": "example", "from_file", "assignment1", "assignment2", "assignment3", "assignment4"
     mode = "example"  # change below as needed for different runs
@@ -419,4 +419,5 @@ if __name__ == "_main_":
 
     else:
         print("Unknown mode. Set mode to one of: example, from_file, assignment1, assignment2, assignment3, assignment4")
+
 
